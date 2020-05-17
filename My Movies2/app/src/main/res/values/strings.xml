@@ -1,0 +1,284 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="desk">Description</string>
+    <string name="yearRelease" translatable="false">2018</string>
+    <string name="_95">95%</string>
+    <string name="titleDetail" translatable="false">Detail Title</string>
+    <string name="status">Status</string>
+    <string name="statusReleased">Released</string>
+    <string name="skorPengunjung">Score</string>
+    <string name="skorDetail">Skor80</string>
+    <string name="genre">Drama , Comedy</string>
+    <string name="waktuTayang">Runtime</string>
+    <string name="bahasaFilm">Language</string>
+    <string name="_1h_0m">1h 0m</string>
+    <string name="english">English</string>
+    <string name="overview">Overview</string>
+    <string name="deskdetail">Description Detail</string>
+    <string name="navigationTV">My TV</string>
+    <string name="navigationMovies">My Movies</string>
+    <string name="changeLanguage">Translate</string>
+
+    <string-array name="data_title">
+        <item>Aquaman</item>
+        <item>A Star Is Born</item>
+        <item>Avengers: Infinity War</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Bird Box</item>
+        <item>Once Upon a Deadpool</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Mortal Engines</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orms half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Allys career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have 			fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock n roll band Queen in 1970. Hit songs become instant classics. When Mercurys increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the 			band together amid the success and excess.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>A kidnapped Fred Savage is forced to endure Deadpools PG-13 rendition of Deadpool 2 as a Princess Bride-esque story thats full of magic, wonder and zero Fs.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.</item>
+    </string-array>
+
+    <array name="data_posterfilm">
+
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_mortalengine</item>
+    </array>
+
+    <string-array name="data_scoreattendance">
+        <item>68%</item>
+        <item>75%</item>
+        <item>83%</item>
+        <item>84%</item>
+        <item>80%</item>
+        <item>65%</item>
+        <item>69%</item>
+        <item>69%</item>
+        <item>77%</item>
+        <item>61%</item>
+
+    </string-array>
+
+    <string-array name="data_runtime">
+        <item>2h 24m</item>
+        <item>2h 16m</item>
+        <item>2h 29m</item>
+        <item>1h 57m</item>
+        <item>2h 15m</item>
+        <item>1h 54m</item>
+        <item>2h 4m</item>
+        <item>1h 57m</item>
+        <item>1h 44m</item>
+        <item>2h 9m</item>
+
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+
+    </string-array>
+
+    <string-array name="data_genres">
+        <item>Action, Adventure, Fantasy</item>
+        <item>Drama, Romance, Music</item>
+        <item>Adventure, Action, Science Fiction</item>
+        <item>Action, Adventure, Science Fiction, Animation, Comedy</item>
+        <item>Drama, Music</item>
+        <item>Action, Adventure, Science Fiction</item>
+        <item>Thriller, Drama</item>
+        <item>Comedy, Action</item>
+        <item>Animation, Family, Adventure</item>
+        <item>Adventure, Fantasy</item>
+
+    </string-array>
+
+    <string-array name="data_languages">
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+
+    </string-array>
+
+    <string-array name="data_year">
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+
+    </string-array>
+
+<!--    TVVVVVVVVVVVVVVVVVVVVVVVVV-->
+
+    <string-array name="data_title_TV">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>The Flash</item>
+        <item>Gotham</item>
+        <item>Iron Fist</item>
+        <item>Naruto Shipudden</item>
+        <item>Riverdale</item>
+        <item>Shameless</item>
+        <item>Supergirl</item>
+        <item>Supernatural</item>
+    </string-array>
+
+    <string-array name="data_description_TV">
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>The Doom Patrols members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only meta-human who was created in the wake of the accelerator explosion and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it wont be long before the world learns what Barry Allen has become…The Flash.</item>
+        <item>Everyone knows the name Commissioner Gordon. He is one of the crime worlds greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordons story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the worlds most iconic villains? And what circumstances created them the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?</item>
+        <item>Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.</item>
+        <item>Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization Akatsuki.</item>
+        <item>Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdales wholesome facade.</item>
+        <item>Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be… perhaps better off. When Franks not at the bar spending what little money they have, hes passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.</item>
+        <item>Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.</item>
+        <item>When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America … and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their 67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.</item>
+
+    </string-array>
+
+    <array name="data_posterfilm_TV">
+
+        <item>@drawable/tv_arrow</item>
+        <item>@drawable/tv_doom_patrol</item>
+        <item>@drawable/tv_flash</item>
+        <item>@drawable/tv_gotham</item>
+        <item>@drawable/tv_iron_fist</item>
+        <item>@drawable/tv_naruto_shipudden</item>
+        <item>@drawable/tv_riverdale</item>
+        <item>@drawable/tv_shameless</item>
+        <item>@drawable/tv_supergirl</item>
+        <item>@drawable/tv_supernatural</item>
+    </array>
+
+    <string-array name="data_scoreattendance_TV">
+        <item>59%</item>
+        <item>65%</item>
+        <item>68%</item>
+        <item>69%</item>
+        <item>61%</item>
+        <item>76%</item>
+        <item>74%</item>
+        <item>79%</item>
+        <item>61%</item>
+        <item>75%</item>
+    </string-array>
+
+    <string-array name="data_runtime_TV">
+        <item>0h 42m</item>
+        <item>1h 0m</item>
+        <item>0h 44m</item>
+        <item>1h 0m</item>
+        <item>0h 55m</item>
+        <item>0h 25m</item>
+        <item>0h 45m</item>
+        <item>1h 0m</item>
+        <item>0h 42m</item>
+        <item>0h 45m</item>
+
+    </string-array>
+
+    <string-array name="data_status_TV">
+        <item>Returning Series</item>
+        <item>Returning Series</item>
+        <item>Returning Series</item>
+        <item>Returning Series</item>
+        <item>Canceled</item>
+        <item>Ended</item>
+        <item>Returning Series</item>
+        <item>Returning Series</item>
+        <item>Returning Series</item>
+        <item>Returning Series</item>
+
+    </string-array>
+
+    <string-array name="data_genres_TV">
+        <item>Crime, Drama, Mystery</item>
+        <item>Science Fiction, Fantasy</item>
+        <item>Drama, Fantasy, Science Fiction</item>
+        <item>Drama, Fantasy, Crime</item>
+        <item>Action, Drama, Fantasy</item>
+        <item>Animation, Comedy, Drama</item>
+        <item>Drama, Mystery</item>
+        <item>Drama, Comedy</item>
+        <item>Action, Adventure, Drama</item>
+        <item>Drama, Mystery</item>
+
+    </string-array>
+
+    <string-array name="data_languages_TV">
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>Japanese</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+
+    </string-array>
+
+    <string-array name="data_year_TV">
+        <item>2019</item>
+        <item>2019</item>
+        <item>2014</item>
+        <item>2014</item>
+        <item>2017</item>
+        <item>2007</item>
+        <item>2017</item>
+        <item>2011</item>
+        <item>2015</item>
+        <item>2005</item>
+
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="title_myMovies" translatable="false">My Movies</string>
+    <string name="title_myTV" translatable="false">My TV</string>
+    <string name="picdetail">picDetail</string>
+    <string name="logoruntime">logoruntime</string>
+    <string name="logolanguages">logolanguages</string>
+
+
+</resources>

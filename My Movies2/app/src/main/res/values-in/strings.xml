@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">Film ku</string>
+    <string name="title">Judul</string>
+    <string name="desk">Deskripsi</string>
+    <string name="yearRelease">2018</string>
+    <string name="_95">95%</string>
+    <string name="titleDetail">Judul detail</string>
+    <string name="status">Status</string>
+    <string name="statusReleased">Rilis</string>
+    <string name="skorPengunjung">Skor Pengunjung</string>
+    <string name="skorDetail">Skor80</string>
+    <string name="genre">Drama , Komedi</string>
+    <string name="waktuTayang">Durasi Film</string>
+    <string name="bahasaFilm">Bahasa Film</string>
+    <string name="_1h_0m">1j 0m</string>
+    <string name="english">Inggris</string>
+    <string name="overview">Detail Deskripsi Film</string>
+    <string name="deskdetail">Deskripsi Detail</string>
+    <string name="navigationTV">TV ku</string>
+    <string name="navigationMovies">Film ku</string>
+    <string name="changeLanguage">Terjemahan</string>
+
+    <!--    MOVIESSSSSSSSSSS-->
+    <string-array name="data_title">
+        <item>Aquaman</item>
+        <item>A Star Is Born</item>
+        <item>Avengers: Infinity War</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Bird Box</item>
+        <item>Once Upon a Deadpool</item>
+        <item>How to Train Your Dragon: The hidden World</item>
+        <item>Mortal Engines</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, lelaki setengah manusia Orm, setengah saudara Atlantis dan pewaris sejati takhta.</item>
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karir Allys lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang secara terus-menerus dengan iblis internalnya sendiri.</item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Ketika Wilson \'Kingpin\' Fisk menggunakan collider super, yang lain dari seberang Spider-Verse diangkut ke dimensi ini.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock n roll Ratu pada tahun 1970. lagu Hit menjadi klasik instan. Ketika gaya hidup Mercurys yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Lima tahun setelah kehadiran tak terlihat yang tidak menyenangkan membuat sebagian besar masyarakat bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan.</item>
+        <item>Fred Savage yang diculik dipaksa untuk menahan Deadpool PG-13 membawakan Deadpool 2 sebagai kisah Putri Pengantin yang penuh keajaiban, keajaiban, dan nol Fs.</item>
+        <item>Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless dari pasangan yang tak teruji dan sukar ditangkap membuat Night Fury menjauh. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka.</item>
+        <item>Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy mengalami pertemuan tak terduga dengan seorang wanita muda misterius dari daerah terlantar yang akan mengubah jalan hidupnya selamanya.</item>
+    </string-array>
+
+    <string-array name="data_runtime">
+        <item>2j 24m</item>
+        <item>2j 16m</item>
+        <item>2j 29m</item>
+        <item>1j 57m</item>
+        <item>2j 15m</item>
+        <item>1j 54m</item>
+        <item>2j 4m</item>
+        <item>1j 57m</item>
+        <item>1j 44m</item>
+        <item>2j 9m</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+        <item>Rilis</item>
+
+    </string-array>
+
+    <string-array name="data_genres">
+        <item>Aksi, Petualangan, Fantasi</item>
+        <item>Drama, Romantis, Musik</item>
+        <item>Petualangan, Aksi, Fiksi Ilmiah</item>
+        <item>Aksi, Petualangan, Fiksi Ilmiah, Animasi, Komedi</item>
+        <item>Drama, Musik</item>
+        <item>Aksi, Petualangan, Fiksi Ilmiah</item>
+        <item>Misteri, Drama</item>
+        <item>Komedi, Aksi</item>
+        <item>Animasi, Keluarga, Petualangan</item>
+        <item>Petualangan, Fantasi</item>
+    </string-array>
+
+    <string-array name="data_languages">
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+
+    </string-array>
+
+    <!--    TVVVVVVVVVVVVVVVVVV-->
+
+    <string-array name="data_title_TV">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>The Flash</item>
+        <item>Gotham</item>
+        <item>Iron Fist</item>
+        <item>Naruto Shipudden</item>
+        <item>Riverdale</item>
+        <item>Shameless</item>
+        <item>Supergirl</item>
+        <item>Supernatural</item>
+    </string-array>
+
+    <string-array name="data_description_TV">
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</item>
+        <item>Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga membuat mereka terluka dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang menyatukan mereka untuk menyelidiki fenomena aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan.</item>
+        <item>Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya bersemangat dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya manusia meta yang diciptakan setelah ledakan akselerator dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat yang hidup, tetapi tidak akan lama sebelum dunia mengetahui apa yang menjadi Barry Allen … The Flash.</item>
+        <item>Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui dari kisah Gordons dan kebangkitannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker?</item>
+        <item>Danny Rand muncul kembali 15 tahun setelah dianggap mati. Sekarang, dengan kekuatan Iron Fist, ia berusaha untuk merebut kembali masa lalunya dan memenuhi takdirnya.</item>
+        <item>Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Kisah ini berkisah tentang Uzumaki Naruto yang lebih tua dan sedikit lebih matang dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman Shinobi seperti ular, Orochimaru. Setelah 2 setengah tahun, Naruto akhirnya kembali ke desanya Konoha, dan mulai mewujudkan ambisinya, meskipun itu tidak akan mudah, karena Ia telah mengumpulkan beberapa musuh (lebih berbahaya), seperti organisasi shinobi. Akatsuki.</item>
+        <item>Berada di masa kini, seri ini menawarkan pandangan yang berani dan subversif pada Archie, Betty, Veronica dan teman-teman mereka, menjelajahi surreality kehidupan kota kecil, kegelapan dan keanehan yang menggelegak di bawah fasad Riverdales yang sehat.</item>
+        <item>Chicagoan Frank Gallagher adalah ayah tunggal yang bangga dari enam anak yang cerdas, rajin, mandiri, yang tanpa dia akan … mungkin lebih baik. Ketika kaum Frank tidak berada di bar menghabiskan sedikit uang yang mereka miliki, dia pingsan di lantai. Tetapi anak-anak telah menemukan cara untuk tumbuh meskipun dia. Mereka mungkin tidak seperti keluarga yang Anda kenal, tetapi mereka tidak meminta maaf karena menjadi diri mereka yang sebenarnya.</item>
+        <item>Kara Zor-El, 24 tahun, yang ditangkap oleh keluarga Danvers ketika dia berusia 13 tahun setelah diusir dari Krypton, harus belajar merangkul kekuatannya setelah sebelumnya menyembunyikannya. Danvers mengajarinya untuk berhati-hati dengan kekuatannya, sampai dia harus mengungkapkannya selama bencana yang tak terduga, menempatkannya dalam perjalanan kepahlawanannya.</item>
+        <item>Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara. Dia mengajari mereka tentang kejahatan paranormal yang hidup di sudut-sudut gelap dan di jalan belakang Amerika … dan dia mengajari mereka cara membunuhnya. Sekarang, saudara-saudara Winchester menjelajahi seluruh negeri dengan 67 Chevy Impala mereka, melawan setiap jenis ancaman supernatural yang mereka temui di sepanjang jalan.</item>
+
+    </string-array>
+
+    <string-array name="data_runtime_TV">
+        <item>0j 42m</item>
+        <item>1j 0m</item>
+        <item>0j 44m</item>
+        <item>1j 0m</item>
+        <item>0j 55m</item>
+        <item>0j 25m</item>
+        <item>0j 45m</item>
+        <item>1j 0m</item>
+        <item>0j 42m</item>
+        <item>0j 45m</item>
+
+    </string-array>
+    <string-array name="data_status_TV">
+        <item>Sedang Tayang</item>
+        <item>Sedang Tayang</item>
+        <item>Sedang Tayang</item>
+        <item>Sedang Tayang</item>
+        <item>Dibatalkan</item>
+        <item>Selesai</item>
+        <item>Sedang Tayang</item>
+        <item>Sedang Tayang</item>
+        <item>Sedang Tayang</item>
+        <item>Sedang Tayang</item>
+    </string-array>
+
+    <string-array name="data_genres_TV">
+        <item>Kriminal, Drama, Misteri</item>
+        <item>Fiksi, Fantasi</item>
+        <item>Drama, Fantasi, Fiksi</item>
+        <item>Drama, Fantasi, Kriminal</item>
+        <item>Aksi, Drama, Fantasi</item>
+        <item>Animasi, Komedi, Drama</item>
+        <item>Drama, Misteri</item>
+        <item>Drama, Komedi</item>
+        <item>Aksi, Petualangan, Drama</item>
+        <item>Drama, Misteri</item>
+
+    </string-array>
+
+    <string-array name="data_languages_TV">
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Jepang</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+        <item>Inggris</item>
+
+    </string-array>
+</resources>
